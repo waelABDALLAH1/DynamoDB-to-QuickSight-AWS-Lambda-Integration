@@ -1,0 +1,16 @@
+{
+    "fileLocations": [
+        {
+            "URIPrefixes": [
+                 "s3://pathtofolderdatainthes3bucket/"
+            ]
+        }
+    ],
+    "globalUploadSettings": {
+        "format": "JSON",
+        "textqualifier": "\"",
+        "containsHeader": "false"
+    }
+  }
+  
+  
